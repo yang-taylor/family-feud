@@ -1,0 +1,28 @@
+[
+	{
+		"question": "Name a physician specialty that earns the most money in the medical field.",
+		"answers": [
+			"Plastic Surgery",
+			"Orthopedics",
+			"Cardiology",
+			"Uronology",
+			"ENT/Otolaryngology",
+			"Radiology",
+			"Gastroenterology",
+			"Oncology"
+		]
+	},
+	{
+		"question": "Name an animal that is commonly responsible for human death.",
+		"answers": [
+			"Mosquitoes",
+			"Human",
+			"Snakes",
+			"Dogs",
+			"Freshwater snails",
+			"Scorpions",
+			"Tapeworms",
+			"hornets/bees/wasps"
+		]
+	}
+]	
