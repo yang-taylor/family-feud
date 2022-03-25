@@ -2,14 +2,46 @@
 	{
 		"question": "Name a physician specialty that earns the most money in the medical field.",
 		"answers": [
-			"Plastic Surgery",
-			"Orthopedics",
-			"Cardiology",
-			"Uronology",
-			"ENT/Otolaryngology",
-			"Radiology",
-			"Gastroenterology",
-			"Oncology"
+			{
+				"number": 1,
+				"solution": "Plastic Surgery",
+				"points": 90
+			},
+			{
+				"number": 2,
+				"solution": "Orthopedics",
+				"points": 80
+			},
+			{
+				"number": 3,
+				"solution": "Cardiology",
+				"points": 70
+			},
+			{
+				"number": 4,
+				"solution": "Uronology",
+				"points": 60
+			},
+			{
+				"number": 5,
+				"solution": "ENT/Otolaryngology",
+				"points": 50
+			},
+			{
+				"number": 6,
+				"solution": "Radiology",
+				"points": 40
+			},
+			{
+				"number": 7,
+				"solution": "Gastroenterology",
+				"points": 30
+			},
+			{
+				"number": 8,
+				"solution": "Oncology",
+				"points": 20
+			}
 		]
 	},
 	{
