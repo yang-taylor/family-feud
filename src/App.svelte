@@ -13,7 +13,6 @@
 	let currentTeam = true;
 
 	function handleFlip(answerNumber) {
-		console.log(answerNumber - 1);
 		data[index].answers[answerNumber - 1].clicked = !data[index].answers[answerNumber - 1].clicked;
 		if (currentTeam) {
 			team1 += data[index].answers[answerNumber - 1].points;
@@ -25,7 +24,6 @@
 	function handleNext() {
 		index++;
 		initializeStates();
-		console.log(data[index]);
 	}
 	function switchTeam() {
 		currentTeam = !currentTeam;
