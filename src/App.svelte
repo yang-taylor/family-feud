@@ -38,7 +38,7 @@
 		{#each data[index].answers as answer}
 			<div class="answer" on:click={handleFlip(answer.number)}>
 				{#if answer.clicked}
-					{ answer.solution }
+					{ answer.solution } - {answer.points }
 				{:else}
 					{ answer.number }
 				{/if}
