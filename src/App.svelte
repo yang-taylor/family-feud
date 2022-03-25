@@ -13,6 +13,7 @@
 	let currentTeam = true;
 
 	function handleFlip(answerNumber) {
+		console.log(answerNumber - 1);
 		data[index].answers[answerNumber - 1].clicked = !data[index].answers[answerNumber - 1].clicked;
 		if (currentTeam) {
 			team1 += data[index].answers[answerNumber - 1].points;
@@ -37,7 +38,7 @@
 	<h1>{ data[index].question }</h1>
 	<div class="answer-board">
 		{#each data[index].answers as answer}
-			<div class="answer" on:click|once={handleFlip(answer.number)}>
+			<div class="answer" on:click={handleFlip(answer.number)}>
 				{#if answer.clicked}
 					{ answer.solution }
 				{:else}
