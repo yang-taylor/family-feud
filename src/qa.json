@@ -47,14 +47,46 @@
 	{
 		"question": "Name an animal that is commonly responsible for human death.",
 		"answers": [
-			"Mosquitoes",
-			"Human",
-			"Snakes",
-			"Dogs",
-			"Freshwater snails",
-			"Scorpions",
-			"Tapeworms",
-			"hornets/bees/wasps"
-		]
+			{
+				"number": 1,
+				"solution": "Mosquitoes",
+				"points": 90
+			},
+			{
+				"number": 2,
+				"solution": "Human",
+				"points": 80
+			},
+			{
+				"number": 3,
+				"solution": "Snakes",
+				"points": 70
+			},
+			{
+				"number": 4,
+				"solution": "Dogs",
+				"points": 60
+			},
+			{
+				"number": 5,
+				"solution": "Freshwater snails",
+				"points": 50
+			},
+			{
+				"number": 6,
+				"solution": "Scorpions",
+				"points": 40
+			},
+			{
+				"number": 7,
+				"solution": "Tapeworms",
+				"points": 30
+			},
+			{
+				"number": 8,
+				"solution": "hornets/bees/wasps",
+				"points": 20
+		}
+	]
 	}
 ]	

@@ -1,24 +1,43 @@
 <script>
 	import data from './qa.json';
-	let answers = [];
 	let index = 0;
-	for (let i = 0; i < data[index].answers.length; i++) {
-		answers.push(data[index].answers[i]);
-		answers[i].clicked = false;
+
+	function initializeStates() {
+		for (let i = 0; i < data[index].answers.length; i++) {
+			data[index].answers[i].clicked = false;
+		}
 	}
 
-	function handleClick(answerNumber) {
-		answers[answerNumber - 1].clicked = !answers[answerNumber - 1].clicked;
+	let team1 = 0;
+	let team2 = 0;
+	let currentTeam = true;
+
+	function handleFlip(answerNumber) {
+		data[index].answers[answerNumber - 1].clicked = !data[index].answers[answerNumber - 1].clicked;
+		if (currentTeam) {
+			team1 += data[index].answers[answerNumber - 1].points;
+		}
+		else {
+			team2 += data[index].answers[answerNumber - 1].points;
+		}
+	}
+	function handleNext() {
+		index++;
+		initializeStates();
+		console.log(data[index]);
+	}
+	function switchTeam() {
+		currentTeam = !currentTeam;
 	}
 </script>
 
 <main>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_of_Family_Feud.png/250px-Logo_of_Family_Feud.png">
+	<img on:click={handleNext} src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_of_Family_Feud.png/250px-Logo_of_Family_Feud.png">
 
 	<h1>{ data[index].question }</h1>
 	<div class="answer-board">
-		{#each answers as answer}
-			<div class="answer" on:click|once={handleClick(answer.number)}>
+		{#each data[index].answers as answer}
+			<div class="answer" on:click|once={handleFlip(answer.number)}>
 				{#if answer.clicked}
 					{ answer.solution }
 				{:else}
@@ -26,6 +45,10 @@
 				{/if}
 			</div>
 		{/each}
+	</div>
+	<div on:click={ switchTeam }>
+		<p>Team One: {team1}</p>
+		<p>Team Two: {team2}</p>
 	</div>
 </main>
 
