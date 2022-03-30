@@ -14,11 +14,18 @@
 
 	function handleFlip(answerNumber) {
 		data[index].answers[answerNumber - 1].clicked = !data[index].answers[answerNumber - 1].clicked;
-		if (currentTeam) {
+		let flipped = data[index].answers[answerNumber - 1].clicked;
+		if (currentTeam && flipped) {
 			team1 += data[index].answers[answerNumber - 1].points;
 		}
-		else {
+		else if (currentTeam && !flipped) {
+			team1 -= data[index].answers[answerNumber - 1].points;
+		}
+		else if (!currentTeam && flipped) {
 			team2 += data[index].answers[answerNumber - 1].points;
+		}
+		else if (!currentTeam && !flipped) {
+			team2 -= data[index].answers[answerNumber - 1].points;
 		}
 	}
 	function handleNext() {
@@ -27,11 +34,17 @@
 	}
 	function switchTeam() {
 		currentTeam = !currentTeam;
+		if (currentTeam) {
+			console.log(1)
+		}
+		else {
+			console.log(2)
+		}
 	}
 </script>
 
 <main>
-	<img on:click={handleNext} src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_of_Family_Feud.png/250px-Logo_of_Family_Feud.png">
+	<img on:click={handleNext} alt="family feud logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_of_Family_Feud.png/250px-Logo_of_Family_Feud.png">
 
 	<h1>{ data[index].question }</h1>
 	<div class="answer-board">
@@ -53,12 +66,16 @@
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+	:root {
+		background-color: blue;
+	}
 	main {
 		font-family: 'Oswald';
 		text-align: center;
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
+		color: white;
 	}
 
 	h1 {
