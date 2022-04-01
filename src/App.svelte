@@ -1,6 +1,10 @@
 <script>
 	import data from './qa.json';
-	let index = 0;
+	const urlParams = new URLSearchParams(window.location.search);
+	let index = urlParams.get('q') - 1;
+	if (index == '') {
+		index = 0;
+	}
 
 	function initializeStates() {
 		for (let i = 0; i < data[index].answers.length; i++) {
@@ -34,12 +38,6 @@
 	}
 	function switchTeam() {
 		currentTeam = !currentTeam;
-		if (currentTeam) {
-			console.log(1)
-		}
-		else {
-			console.log(2)
-		}
 	}
 </script>
 
@@ -59,8 +57,13 @@
 		{/each}
 	</div>
 	<div on:click={ switchTeam }>
-		<p>Team One: {team1}</p>
-		<p>Team Two: {team2}</p>
+		{#if currentTeam}
+			<p style="color: salmon;">Team One: {team1}</p>
+			<p>Team Two: {team2}</p>
+		{:else}
+			<p>Team One: {team1}</p>
+			<p style="color: salmon;">Team Two: {team2}</p>
+		{/if}
 	</div>
 </main>
 
