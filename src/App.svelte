@@ -44,7 +44,10 @@
 <main>
 	<img on:click={handleNext} alt="family feud logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_of_Family_Feud.png/250px-Logo_of_Family_Feud.png">
 
+<!--
 	<h1>{ data[index].question }</h1>
+-->
+	<h1>{ index + 1 }</h1>
 	<div class="answer-board">
 		{#each data[index].answers as answer}
 			<div class="answer" on:click={handleFlip(answer.number)}>
