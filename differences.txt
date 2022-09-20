@@ -1,0 +1,1565 @@
+3c3
+< 		"question": " Name a physician specialty that earns the most money in the medical field.",
+---
+> 		"question": "Name a physician specialty that earns the most money in the medical field.",
+8c8
+< 				"points": 100
+---
+> 				"points": 90
+13c13
+< 				"points": 90
+---
+> 				"points": 80
+18c18
+< 				"points": 80
+---
+> 				"points": 70
+23c23
+< 				"points": 70
+---
+> 				"points": 60
+28c28
+< 				"points": 60
+---
+> 				"points": 50
+33c33
+< 				"points": 50
+---
+> 				"points": 40
+38c38
+< 				"points": 40
+---
+> 				"points": 30
+43c43
+< 				"points": 30
+---
+> 				"points": 20
+48,89c48
+< 		"question": " Name a circus performer who, if they sneezed in the middle of their act, might die.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Tightrope walker",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Trapeze artist",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Sword swallower",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Lion tamer",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Clown",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Fire eater",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "juggler/chain saws",
+< 				"points": 40
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " Name an animal that is commonly responsible for human death.",
+---
+> 		"question": "Name an animal that is commonly responsible for human death.",
+94,425d52
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Human",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Snakes",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Dogs",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Freshwater snails",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Scorpions",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Tapeworms",
+< 				"points": 40
+< 			},
+< 			{
+< 				"number": 8,
+< 				"solution": "hornets/bees/wasps",
+< 				"points": 30
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " We asked 100 women: If a man is ugly, he�d better have a beautiful what",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Personality",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "smile/mouth",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "heart/soul",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Bank account/job",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Car",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "House",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Wife",
+< 				"points": 40
+< 			},
+< 			{
+< 				"number": 8,
+< 				"solution": "Body",
+< 				"points": 30
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something you�d do if your date took you to Chuck E. Cheese",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Play games",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "leave/walk out",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Eat lots of pizza",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "dump/ghost",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Laugh",
+< 				"points": 60
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " Where do you go if the restroom at work is out of order and you really gotta go",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Nearby business/cafe",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "outside/bushes",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Other sex bathroom",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Home",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "An office/closet",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Different floor",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "In a sink",
+< 				"points": 40
+< 			},
+< 			{
+< 				"number": 8,
+< 				"solution": "I hold it in",
+< 				"points": 30
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something a person might be running from",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "The law/feds",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "bear/animal",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Their past/ex",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "debt/bills",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Criminal",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "commitment/marriage",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "monster/zombie",
+< 				"points": 40
+< 			},
+< 			{
+< 				"number": 8,
+< 				"solution": "truth/inner self",
+< 				"points": 30
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something two hospital patients in the same room might fight over",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "TV/remote",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Nurse�s attention",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "light/shades open",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "The beds",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Thermostat",
+< 				"points": 60
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " What would you do if a man you really liked shook your hand at the end of a date",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Shake his/ firmly",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Be bummed/cry",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Thank him",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Walk away",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Find another guy",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Hug him",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Be shocked",
+< 				"points": 40
+< 			},
+< 			{
+< 				"number": 8,
+< 				"solution": "Be grossed out",
+< 				"points": 30
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " Name an activity people commonly take up after retirement.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Golf",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Gardening",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Traveling",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Fishing",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Playing an instrument",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Knitting",
+< 				"points": 50
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something you�d see a lot of in Californi",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Beaches",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Palm trees",
+429,464d55
+< 				"number": 3,
+< 				"solution": "Sun",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Movie stars",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Artists",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Cars",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Blondes",
+< 				"points": 40
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something a funeral and a wedding have in common.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Family/Guests",
+< 				"points": 100
+< 			},
+< 			{
+466,471c57
+< 				"solution": "Flowers",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "church/clergy",
+---
+> 				"solution": "Human",
+475,515d60
+< 				"number": 4,
+< 				"solution": "Dressing up",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Reception/Food",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Ceremony",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "emotions/tears",
+< 				"points": 40
+< 			},
+< 			{
+< 				"number": 8,
+< 				"solution": "music",
+< 				"points": 30
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something you�d be surprised to find in the trunk of your rental car",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "person/body",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Money",
+< 				"points": 90
+< 			},
+< 			{
+517,522c62
+< 				"solution": "gun/weapon",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Dirty shovel",
+---
+> 				"solution": "Snakes",
+526,551d65
+< 				"number": 5,
+< 				"solution": "Luggage",
+< 				"points": 60
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " What are the most commonly Googled health questions/topics",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "How to lower blood pressure",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "What is keto",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Hiccups/How to get rid of Hiccups",
+< 				"points": 80
+< 			},
+< 			{
+553,558c67
+< 				"solution": "Flu length",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Kidney Stones",
+---
+> 				"solution": "Dogs",
+562,602d70
+< 				"number": 6,
+< 				"solution": "HPV",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "How to lower cholesterol",
+< 				"points": 40
+< 			},
+< 			{
+< 				"number": 8,
+< 				"solution": "How many calories should i eat in a day",
+< 				"points": 30
+< 			}
+< 
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something you try to get rid of that always seems to come back.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Pimple",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Men",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Bugs",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Cold",
+< 				"points": 70
+< 			},
+< 			{
+604,609c72
+< 				"solution": "Boomerang",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Bad headache",
+---
+> 				"solution": "Freshwater snails",
+613,672d75
+< 				"number": 7,
+< 				"solution": "Bad habit",
+< 				"points": 40
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something specific a Guilford College squirrel might do to you if you tried to touch his acorns",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Bite you",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Scream at you",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Scratch you",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Run from you",
+< 				"points": 70
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something associated with vampires.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Twilight",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "blood/bloosuckers",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Garlic",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Bat",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Cape",
+< 				"points": 60
+< 			},
+< 			{
+674,679c77
+< 				"solution": "Dracula",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Fangs",
+---
+> 				"solution": "Scorpions",
+683,782d80
+< 				"number": 8,
+< 				"solution": "Halloween",
+< 				"points": 30
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something a lonely guy sleeps with at night to keep him company.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "dog/pet",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "pillow/blankie",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Teddy bear",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "His phone",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "remote/TV on",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Booze",
+< 				"points": 50
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name a holiday that you might blow a whole paycheck on",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Christmas",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "New Year�s",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Valentine�s ",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Fourth of July",
+< 				"points": 70
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " If there was a store that only sold husbands, most people would try to buy one with what",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Job",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "personality/humor",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "warranty/guarantee",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "heart/character",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Bank account",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "bod/butt",
+< 				"points": 50
+< 			},
+< 			{
+784,894c82
+< 				"solution": "Head of hair",
+< 				"points": 40
+< 			},
+< 			{
+< 				"number": 8,
+< 				"solution": "Brain",
+< 				"points": 30
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something you should never wear as the guest at someone�s wedding.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "White dress",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "All black",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Shorts",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Jeans",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Cap",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "T-shirt",
+< 				"points": 50
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Besides chicken, name a bird people eat.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Turkey",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Duck",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Pheasant",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Quail",
+< 				"points": 70
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " In horror movies, name a place teenagers go where there�s always a killer on the loose.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Cabin/Camp/Woods",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Graveyard",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Movie theater/Drive in",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Basement/Cellar",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Closet",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Bathroom/Shower",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Bedroom/Bed",
+< 				"points": 40
+< 			},
+< 			{
+< 				"number": 8,
+< 				"solution": "A Party",
+---
+> 				"solution": "Tapeworms",
+896,935d83
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something that might be full of holes",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Swiss cheese",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Clothes/Socks",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Alibi/Story",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Net/Fishing Net",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Colander/Strainer",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Golf course",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Screen",
+< 				"points": 40
+939,1567c87,90
+< 				"solution": "Road/Street",
+< 				"points": 30
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Tell me whose name a young man might have tattooed on himself",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Mom",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "wife/girlfriend",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Child",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "God",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Father",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Grandparent ",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Pet",
+< 				"points": 40
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name the most useful body part that begins with the letter �L.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Legs",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Lips",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Lungs",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Liver",
+< 				"points": 70
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " What would you do in a job interview that would guarantee you don�t get the job",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Chew gum/candy",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Lie",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Pass gas/fart",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Swear",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Smoke",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Sleep",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Arrive late",
+< 				"points": 40
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name the worst part about riding the bus",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Crowded",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Stinky",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Bumpy",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Noisy",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Takes longer",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Hot",
+< 				"points": 50
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something you�d be afraid to do by yourself",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Travel",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Skydive",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Sleep",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Swim",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Walk at night",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Watch scary movies",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Camp",
+< 				"points": 40
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name the worst thing to have to share with a sibling.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Clothes",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Bedroom",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Bed",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Toys",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Food",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Bathroom",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Car",
+< 				"points": 40
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Other than acting, name a profession that celebrity actors might take up",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Singing",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Directing",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Modeling",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Fashion design",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Politics",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Spokesperson",
+< 				"points": 50
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " What traffic signs describe your lifestyle",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Stop",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Green light",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "yield/slow down",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Dead end",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Do not enter",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Curves ahead",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Caution",
+< 				"points": 40
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " What do college students do that annoys their professors the most?",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Talk",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Fall asleep",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Skip class",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Cheat",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Text message",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Arrive late",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Chew gum",
+< 				"points": 40
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name a job where it would be ok to yell at work",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Construction",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Sports",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Teacher",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Police",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Stock broker",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Auctioneer",
+< 				"points": 50
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something a teenager couldn�t live without.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Cell phone",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Computer",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Car",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Music",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "TV",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Money",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Clothes",
+< 				"points": 40
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " What do people do that could get them kicked out of a museum",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Touch the art",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Run",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Steal",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Yell",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Bring food in",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Break something",
+< 				"points": 50
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something a celebrity hopes won�t happen while on stage to accept an award.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Get slapped",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Fall ",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Forget speech",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Lose voice",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Faint",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Cry",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Drop award",
+< 				"points": 40
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name a public place where you immediately want to wash your hands after leaving.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Hospital",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Restaurant",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Zoo",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Shopping center",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Gas station",
+< 				"points": 60
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Name something men probably lie about the most.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Age",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Being single",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Height",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Income",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Success with women",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Job title",
+< 				"points": 50
+< 			},
+< 			{
+< 				"number": 7,
+< 				"solution": "Weight",
+< 				"points": 40
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Which Olympic sport would be most fun to watch live?",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Swimming",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Gymnastics",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Basketball",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Hockey",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Track",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Ice skating",
+< 				"points": 50
+< 			}
+< 		]
+< 	},
+< 	{
+< 		"question": " Besides getting a job, name something a person might do after college.",
+< 		"answers": [
+< 			{
+< 				"number": 1,
+< 				"solution": "Travel",
+< 				"points": 100
+< 			},
+< 			{
+< 				"number": 2,
+< 				"solution": "Get married",
+< 				"points": 90
+< 			},
+< 			{
+< 				"number": 3,
+< 				"solution": "Go back to school",
+< 				"points": 80
+< 			},
+< 			{
+< 				"number": 4,
+< 				"solution": "Move back home",
+< 				"points": 70
+< 			},
+< 			{
+< 				"number": 5,
+< 				"solution": "Party ",
+< 				"points": 60
+< 			},
+< 			{
+< 				"number": 6,
+< 				"solution": "Join the militar",
+< 				"points": 50
+< 			}
+< 		]
+---
+> 				"solution": "hornets/bees/wasps",
+> 				"points": 20
+> 		}
+> 	]
+1569c92
+< ]
+\ No newline at end of file
+---
+> ]	
+\ No newline at end of file
